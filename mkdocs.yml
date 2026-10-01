@@ -9,6 +9,3 @@ nav:
   - Home: index.md
   - Projects: project/cel-epl-pro-001.md
 
-
-  - Schneider:
-      - ACB: schneider/cel-sch-acb-001.md
