@@ -1,0 +1,55 @@
+/* =========================
+   Page width
+   ========================= */
+
+.md-grid {
+    max-width: 1700px;
+}
+
+.md-content {
+    max-width: none;
+}
+
+.md-sidebar--secondary {
+    width: 10rem;
+}
+
+
+/* =========================
+   Tables
+   ========================= */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th {
+    background-color: #2eae4f;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+table td,
+table th {
+    padding: 6px 10px;
+    border: none;
+}
+
+table tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+table tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+    display: none;
+}
